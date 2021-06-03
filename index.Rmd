@@ -1,0 +1,34 @@
+---
+title: "Sistema Integral de Monitoreo de Vectores"
+output: 
+  flexdashboard::flex_dashboard:
+      theme: united
+      social: [ "twitter", "facebook", "menu", "github" ]
+output_dir: docs
+---
+
+
+
+
+Dengue
+=====================================  
+
+Column {.tabset}
+------------------------------------
+
+### **<span style="color:#7d9029;">Control Larvario</span>**
+
+### **<span style="color:#7d9029;">Rociado Residual</span>**
+
+### **<span style="color:#7d9029;">Nebulización</span>**
+
+### **<span style="color:#7d9029;">Vigilancia Entomológica</span>**
+
+Paludismo
+===================================== 
+
+Leishmaniasis
+===================================== 
+
+Enfermedad de Chagas
+===================================== 
